@@ -10,6 +10,8 @@
  - Interceptores: __get,__set, __toString, __construnct
  - Type histing
  - Exception
+ - Uso do Namespace.
+ - Registro do Namespace no arquivo autoload.php
  
  
   
